@@ -1,4 +1,4 @@
-# Donwloading and Setting up Linux on my PC
+# Downloading and Setting up Linux on my PC
 ### Installing Oracle virtual box
 I installed Oracle VirtualBox and the Ubuntu ISO file from their respective websites.
 1. <img width="1099" height="953" alt="download  linux" src="https://github.com/user-attachments/assets/95d750fa-9a7e-4978-b536-7b540504578b" />
