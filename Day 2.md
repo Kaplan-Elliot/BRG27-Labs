@@ -1,4 +1,4 @@
-Setting up a VM using a cloud service
+# Setting up a VM using a cloud service
 
 ## Obatining the cloud service
 
