@@ -1,6 +1,6 @@
 # Setting up a VM using a cloud service
 
-## Obatining the cloud service
+## Obtaining the cloud service
 
 ### Creating an account
 
